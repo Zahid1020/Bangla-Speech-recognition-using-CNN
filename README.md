@@ -1,0 +1,2 @@
+# Bangla-Speech-recognition-using-CNN
+The main objective of this research is to build a voice-based user interface for visually impaired individuals which can be used in any public place like restaurants, libraries, etc. It should be noticed that this kind of user interface software is available for English-speaking people but not much work has been done about using it for Bangla-speaking people. The main parts of the research are Bangla speech data collection and processing for training the CNN model.
